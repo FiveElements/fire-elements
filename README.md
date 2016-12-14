@@ -12,25 +12,26 @@ Le feu annonce une purification. Il est représenté par le soleil, les étoiles
 
 Caractéristiques : Vivacité, confiance en soi, volonté de réalisation, enthousiasme, dynamisme, franchise. La fonction psychologique déterminante est l´intuition. C´est une indication de force, de lutte, d´audace, mais il peut y avoir une tendance à l´exagération, à la dramatisation.
 
-Type d'énergie : projective
-Couleur : rouge
-Signes du zodiaque : Bélier, Lion, Sagittaire.
-Ange : Uriel
-Lieux : déserts, sources thermales, volcans, fours, foyers, chambre à coucher, saunas, gyms, salles d'entrainement
-Rituels : protection, courage, sexe, énergie, force, autorité, bannissement
-Herbes : plante à épines, comme le chardon, poivres et piments, cactus; les stimulants, comme le café, les graines en général
-Pierres : Rouge ou de feu, jaspe; les volcanniques, lave; clair, quartz clair
-Métaux : or et laiton
-Instruments de musique : Tout instrument à cordes
-Créatures : serpents, criquets, lézards, mantes religieuses, demoiselles, abeilles, scorpions, requins
-Saison : été
-Direction : sud
-Temps : midi
-Sens : vue
-Étape de la vie : jeunesse
-Outils magiques : épée
-Symboles naturels : flammes, lave, un objet réchauffé
-Types de magie : chandelle, tempête, temps et étoile, élémental
+* *L'animaux du feu :* La salamandre 
+* *Type d'énergie :* projective
+* *Couleur :* rouge
+* *Signes du zodiaque :* Bélier, Lion, Sagittaire.
+* *Ange :* Uriel
+* *Lieux :* déserts, sources thermales, volcans, fours, foyers, chambre à coucher, saunas, gyms, salles d'entrainement
+* *Rituels :* protection, courage, sexe, énergie, force, autorité, bannissement
+* *Herbes :* plante à épines, comme le chardon, poivres et piments, cactus; les stimulants, comme le café, les graines en général
+* *Pierres :* Rouge ou de feu, jaspe; les volcanniques, lave; clair, quartz clair
+* *Métaux :* or et laiton
+* *Instruments de musique :* Tout instrument à cordes
+* *Créatures :* serpents, criquets, lézards, mantes religieuses, demoiselles, abeilles, scorpions, requins
+* *Saison :* été
+* *Direction :* sud
+* *Temps :* midi
+* *Sens :* vue
+* *Étape de la vie :* jeunesse
+* *Outils magiques :* épée
+* *Symboles naturels :* flammes, lave, un objet réchauffé
+* *Types de magie :* chandelle, tempête, temps et étoile, élémental
 - Djinn
 
 
